@@ -20,7 +20,7 @@ int main(){
 
     ptrc= myFunc(&a, &b);
     *ptrc= c;
-    cout<<"The final values are a: " <<a<<" b: :"<<b<< " c: "<<c<<endl;
+    cout<<"The final values are a: " <<a<<" b: "<<b<< " c: "<<c<<endl;
      
     return 0;
 
