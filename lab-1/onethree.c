@@ -18,11 +18,11 @@ void main()
         printf("Enter the name of student : ");
         scanf("%s", &s[i].name);
             
-        printf("Enter the marks in c programming: ");
+        printf("Enter the marks in C programming: ");
         scanf("%d", &s[i].marks);
         
     }
-    printf("\n\n The marks of students In the subjects are\n\n");
+    printf("\n\n The marks of students in C programming are\n\n");
     printf("|%10s|", "Students");
    
     printf("%12s|", "Marks in C");
